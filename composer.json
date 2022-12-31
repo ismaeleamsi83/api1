@@ -1,5 +1,5 @@
 {
-     "name": "ismaeleamsi83/api1",
+    "name": "ismaeleamsi83/api1",
     "description": "My first packagist package in PHP and Composer",
     "type": "package",
     "require": {
@@ -11,8 +11,7 @@
         "psr-4": {
             "ismaeleamsi83\\api1\\": "src/"
         }
-    }
-    
+    },
     "require": {
         "fzaninotto/faker": "^1.9"
     }
