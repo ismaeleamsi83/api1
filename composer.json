@@ -8,15 +8,14 @@
     "license": "mit",
     "authors": [
         {
-            "name": "Ismael",
-           // "email": "your@email.com",
-           // "homepage": "http://yourhomepage-if-you-have.com"
+            "name": "ismaeleamsi",
+            
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ourcodeworld\\HelloComposer\\": "src/"
+            "ismaeleamsi83\\api1\\": "src/"
         }
     }
     
